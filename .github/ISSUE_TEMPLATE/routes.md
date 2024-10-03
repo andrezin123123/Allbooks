@@ -19,4 +19,4 @@ Uma descrição clara e concisa do que você esperava que acontecesse.
 Se aplicável, adicione capturas de tela para ajudar a explicar seu problema.
 
 **Contexto Adicional:**
-Esta no Diretorio
+Não possue
