@@ -5,7 +5,9 @@ about: Crie um relatório para nos ajudar a melhorar
 ---
 
 **Descreva o problema:**
+
 Uma descrição clara e concisa para melhor ENTENDIMENTO.
+
 
 **Passos para Reproduzir:**
 Passos para reproduzir o comportamento:
