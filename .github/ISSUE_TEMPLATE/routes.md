@@ -19,4 +19,4 @@ Uma descrição clara e concisa do que você esperava que acontecesse.
 Se aplicável, adicione capturas de tela para ajudar a explicar seu problema.
 
 **Contexto Adicional:**
-Escreva qualquer contexto adicional sobre o problema aqui.
+Não possue
